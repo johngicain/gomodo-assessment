@@ -8,7 +8,7 @@
           "settings": {
             "heading": "Clear and concise statement of what you offer.",
             "heading_size": "h1",
-            "heading_weight": "400"
+            "heading_weight": "700"
           }
         },
         "template--16390433800378__b1c70873-934b-4b02-9ef6-dfad6be1b2af-text-1": {
@@ -23,7 +23,7 @@
           "settings": {
             "button_label": "LEARN MORE",
             "button_link": "\/",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "button_color_scheme": "scheme-6f102e79-9f9e-42c5-a4a3-2d1f0d99dc9a"
           }
         },
@@ -32,7 +32,7 @@
           "settings": {
             "button_label": "OUR STORY",
             "button_link": "\/",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "button_color_scheme": "scheme-9c88df3e-bdb3-4e83-8e20-81f4e37f11d7"
           }
         }
