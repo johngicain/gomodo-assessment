@@ -30,8 +30,8 @@
         "032e633d-c39d-4222-b1bf-fb9382b9373b": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "OUR STORY",
+            "button_link": "\/",
             "button_style_secondary": false,
             "button_color_scheme": "scheme-9c88df3e-bdb3-4e83-8e20-81f4e37f11d7"
           }
