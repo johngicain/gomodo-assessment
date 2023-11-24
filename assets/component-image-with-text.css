@@ -92,6 +92,13 @@
   z-index: 1;
 }
 
+.rich-text__buttons {
+  display: grid;
+  flex-direction: row;
+  grid-template-columns: repeat(2, 1fr);
+  margin: 3rem auto;
+}
+
 .rich-text__buttons a,
 .button-wrapper a {
   font-size: 1.3rem;
