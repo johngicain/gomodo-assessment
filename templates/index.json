@@ -214,12 +214,62 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "732b1f7e-fd2e-4c34-9556-8d9cfb5356f3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16390433800378__732b1f7e-fd2e-4c34-9556-8d9cfb5356f3-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "What value will your customer recieve if they do business with you",
+            "heading_size": "h1",
+            "heading_weight": "400"
+          }
+        },
+        "template--16390433800378__732b1f7e-fd2e-4c34-9556-8d9cfb5356f3-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16390433800378__732b1f7e-fd2e-4c34-9556-8d9cfb5356f3-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "\/",
+            "button_style_secondary": true,
+            "button_color_scheme": "scheme-6f102e79-9f9e-42c5-a4a3-2d1f0d99dc9a"
+          }
+        }
+      },
+      "block_order": [
+        "template--16390433800378__732b1f7e-fd2e-4c34-9556-8d9cfb5356f3-heading-1",
+        "template--16390433800378__732b1f7e-fd2e-4c34-9556-8d9cfb5356f3-text-1",
+        "template--16390433800378__732b1f7e-fd2e-4c34-9556-8d9cfb5356f3-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/footer-banner.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "b1c70873-934b-4b02-9ef6-dfad6be1b2af",
     "54d573c9-9116-4758-8807-ae9c6bd4136a",
     "da01d553-740a-47cc-827e-acb9d33ae4b0",
-    "312f2455-936c-46e7-a5b7-47061656f099"
+    "312f2455-936c-46e7-a5b7-47061656f099",
+    "732b1f7e-fd2e-4c34-9556-8d9cfb5356f3"
   ]
 }
