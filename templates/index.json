@@ -24,14 +24,24 @@
             "button_label": "LEARN MORE",
             "button_link": "\/",
             "button_style_secondary": false,
-            "button_color_scheme": ""
+            "button_color_scheme": "scheme-6f102e79-9f9e-42c5-a4a3-2d1f0d99dc9a"
+          }
+        },
+        "032e633d-c39d-4222-b1bf-fb9382b9373b": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_color_scheme": "scheme-9c88df3e-bdb3-4e83-8e20-81f4e37f11d7"
           }
         }
       },
       "block_order": [
         "template--16390433800378__b1c70873-934b-4b02-9ef6-dfad6be1b2af-heading-1",
         "template--16390433800378__b1c70873-934b-4b02-9ef6-dfad6be1b2af-text-1",
-        "template--16390433800378__b1c70873-934b-4b02-9ef6-dfad6be1b2af-button-1"
+        "template--16390433800378__b1c70873-934b-4b02-9ef6-dfad6be1b2af-button-1",
+        "032e633d-c39d-4222-b1bf-fb9382b9373b"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/hero.png",
