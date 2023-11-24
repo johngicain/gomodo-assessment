@@ -93,7 +93,7 @@
 }
 
 .rich-text__buttons {
-  display: grid;
+  display: grid !important;
   flex-direction: row;
   grid-template-columns: repeat(2, 1fr);
   margin: 3rem auto;
