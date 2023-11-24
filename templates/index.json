@@ -288,7 +288,7 @@
             "button_label_1": "LEARN MORE",
             "button_link_1": "\/",
             "button_style_secondary_1": false,
-            "button_label_2": "OUR STORY",
+            "button_label_2": "Learn More",
             "button_link_2": "\/",
             "button_style_secondary_2": false
           }
@@ -299,6 +299,7 @@
         "template--16390433800378__08f52ac5-2c40-47ef-87b4-a1d7e5af7883-text-1",
         "template--16390433800378__08f52ac5-2c40-47ef-87b4-a1d7e5af7883-buttons-1"
       ],
+      "disabled": true,
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
