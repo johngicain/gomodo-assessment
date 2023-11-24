@@ -92,6 +92,13 @@
   z-index: 1;
 }
 
+.button-wrapper a {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-right: 1rem;
+  border-radius: 1.5rem;
+}
+
 .image-with-text .grid__item::after {
   content: '';
   position: absolute;
