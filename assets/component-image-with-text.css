@@ -92,6 +92,7 @@
   z-index: 1;
 }
 
+.rich-text__buttons,
 .button-wrapper a {
   font-size: 1.3rem;
   font-weight: bold;

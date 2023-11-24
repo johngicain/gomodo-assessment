@@ -142,7 +142,7 @@
                   {% else %}
                     href="{{ block.settings.button_link_1 }}"
                   {% endif %}
-                  class="button{% if block.settings.button_style_secondary_1 %} button--secondary{% else %} button--primary{% endif %}"
+                  class="button{% if block.settings.button_style_secondary_1 %} button--secondary{% else %} button--primary{% endif %} color-{{ block.settings.button_color_scheme }}"
                 >
                   {{- block.settings.button_label_1 | escape -}}
                 </a>
@@ -154,7 +154,7 @@
                   {% else %}
                     href="{{ block.settings.button_link_2 }}"
                   {% endif %}
-                  class="button{% if block.settings.button_style_secondary_2 %} button--secondary{% else %} button--primary{% endif %}"
+                  class="button{% if block.settings.button_style_secondary_2 %} button--secondary{% else %} button--primary{% endif %} color-{{ block.settings.button_color_scheme }}"
                 >
                   {{- block.settings.button_label_2 | escape -}}
                 </a>
@@ -468,6 +468,12 @@
           "id": "button_style_secondary_2",
           "default": false,
           "label": "t:sections.image-banner.blocks.buttons.settings.button_style_secondary_2.label"
+        },
+        {
+          "type": "color_scheme",
+          "id": "button_color_scheme",
+          "label": "BG Color 1",
+          "default": "background-1"
         }
       ]
     }
