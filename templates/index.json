@@ -263,6 +263,53 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "08f52ac5-2c40-47ef-87b4-a1d7e5af7883": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16390433800378__08f52ac5-2c40-47ef-87b4-a1d7e5af7883-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--16390433800378__08f52ac5-2c40-47ef-87b4-a1d7e5af7883-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--16390433800378__08f52ac5-2c40-47ef-87b4-a1d7e5af7883-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "LEARN MORE",
+            "button_link_1": "\/",
+            "button_style_secondary_1": false,
+            "button_label_2": "OUR STORY",
+            "button_link_2": "\/",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16390433800378__08f52ac5-2c40-47ef-87b4-a1d7e5af7883-heading-1",
+        "template--16390433800378__08f52ac5-2c40-47ef-87b4-a1d7e5af7883-text-1",
+        "template--16390433800378__08f52ac5-2c40-47ef-87b4-a1d7e5af7883-buttons-1"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -270,6 +317,7 @@
     "54d573c9-9116-4758-8807-ae9c6bd4136a",
     "da01d553-740a-47cc-827e-acb9d33ae4b0",
     "312f2455-936c-46e7-a5b7-47061656f099",
-    "732b1f7e-fd2e-4c34-9556-8d9cfb5356f3"
+    "732b1f7e-fd2e-4c34-9556-8d9cfb5356f3",
+    "08f52ac5-2c40-47ef-87b4-a1d7e5af7883"
   ]
 }
